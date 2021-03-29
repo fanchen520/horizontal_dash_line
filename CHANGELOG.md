@@ -1,3 +1,3 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - 2021.03.29
 
-* TODO: Describe initial release.
+* 横虚线组件， 可以自定义横线每段长度和间隙宽度，横线高度，横线颜色.

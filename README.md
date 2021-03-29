@@ -1,14 +1,14 @@
 # horizontal_dash_line
 
-A new Flutter package project.
+横虚线组件， 可以自定义横线每段长度和间隙宽度，横线高度，横线颜色.
 
-## Getting Started
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+# Usage
+import 'package:horizontal_dash_line/horizontal_dash_line.dart';
+HorizontalDashLine(
+  strokeWidth: 1,
+  dashColor: Colors.red,
+  dashSpace: 6,
+  dashWidth: 6,
+),
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.

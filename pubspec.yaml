@@ -1,8 +1,7 @@
 name: horizontal_dash_line
 description: 横虚线组件， 可以自定义横线每段长度和间隙宽度，横线高度，横线颜色.
 version: 0.0.1
-author:
-homepage:
+homepage: https://github.com/fanchen520/horizontal_dash_line
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
